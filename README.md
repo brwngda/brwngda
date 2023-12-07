@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brwngda&label=Profile%20views&color=0e75b6&style=flat" alt="brwngda" /> </p>
 
-- 🔭 I’m currently working on [organizer-spring](https://github.com/brwngda/organizer-spring)
+- 🔭 I’m currently working on [auction-service](https://github.com/brwngda/auction-service)
 
 - 🌱 I’m currently improving my skills in **Spring boot**
 
