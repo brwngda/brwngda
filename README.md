@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grzegorz Barwiński</h1>
 <h3 align="center">A promising backend developer from Gdańsk, Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brwngda&label=Profile%20views&color=0e75b6&style=flat" alt="brwngda" /> </p>
-
 - 🔭 I’m currently working on [auction-service](https://github.com/brwngda/auction-service)
 
 - 🌱 I’m currently improving my skills in **Spring boot**
